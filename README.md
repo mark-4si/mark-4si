@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌱 I'm currently learning the basics 
 
-💻 I'm a codecooler
+💻 I'm a Codecooler
 <!--
 **mark-4si/mark-4si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
